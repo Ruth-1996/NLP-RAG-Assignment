@@ -1,0 +1,24 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor / notebook caches
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local Hugging Face / models / Docker data
+.cache/
+models/
+opensearch-data/
+
+# Transient output / backup
+*.log
+*.bak
+backup/
+authentic_rag_search_results.json

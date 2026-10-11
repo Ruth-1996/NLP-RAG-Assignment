@@ -1,0 +1,10 @@
+opensearch-py
+sentence-transformers
+llama-index
+llama-index-embeddings-huggingface
+openai
+python-dotenv
+langchain-community
+langchain-core
+tqdm
+numpy
